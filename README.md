@@ -117,10 +117,3 @@ chainlit run chatfood_ui.py
 - **Streaming Responses**: Supports **incremental response updates** for better UX.
 - **Human-in-the-loop (HITL)**: Implements **explicit confirmations for sensitive actions** like order cancellation.
 
-## 🤝 Contributions & Support
-This project is open to contributions! Feel free to submit **issues**, **pull requests**, or share feedback.
-
-📩 For questions, reach out via **[GitHub Issues](https://github.com/your-repo/chatfood/issues)**.
-
----
-🔗 **Developed as part of an NLP Course at Tehran University.**
