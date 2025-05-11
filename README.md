@@ -11,6 +11,16 @@ ChatFood is an intelligent chatbot designed as part of an NLP course project usi
 
 This project allows students to gain hands-on experience in chatbot development, **multi-agent architectures, RAG-based retrieval, LangGraph workflows, and database management**.
 
+## 📽️ Demo Video
+Here is a video demo of the project (by Mobin Tirafkan):
+
+
+https://github.com/user-attachments/assets/f7a67270-803b-41cb-9264-2c82f3b39718
+
+📌 **Graph View of the ChatFood Workflow:**  
+![Graph View](sample-solution/final-graph.jpeg)
+
+
 ## 🎯 Objectives
 This project aims to:
 - Introduce **LangGraph** for designing an intelligent chatbot with agent-based reasoning.
@@ -46,14 +56,6 @@ ChatFood is built using **LangGraph**, leveraging its graph-based workflow to cr
 - **Order Manager**: Manages orders (checking status, cancellations, and reviews).
 - **Food Search Module**: Retrieves food details from the database.
 
-📌 **Graph View of the ChatFood Workflow:**  
-![Graph View](sample-solution/final-graph.jpeg)
-
-## 📽️ Demo Video
-Here is a video demo of the project (by Mobin Tirafkan):
-
-
-https://github.com/user-attachments/assets/f7a67270-803b-41cb-9264-2c82f3b39718
 
 
 ## ⚙️ Tech Stack
